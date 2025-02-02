@@ -1,1 +1,1 @@
-Learning about nested lists in python using nested loops and 2D arrays
+Understanding nested loops and 2d arrays
